@@ -38,7 +38,7 @@ section {
 nav {
   display: flex;
   justify-content: space-between;
-  margin: 50px 200px;
+  padding: 10px 100px;
 }
 .nav-title {
   font-weight: 800;
@@ -230,12 +230,12 @@ textarea {
 input {
   height: 64px;
 }
-.contact a{
+.contact a {
   text-decoration: none;
   margin-right: 25px;
 }
 /* Footer Styles */
-.footer{
+.footer {
   background-color: black;
   color: #ffffff;
   text-align: center;
